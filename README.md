@@ -24,6 +24,3 @@ A simple and elegant React-based Weather Application that shows real-time weathe
 ## 🎨 Styling
 - Layout designed using Bootstrap grid & components
 - Additional custom CSS for colors, spacing, and card styling
-
-## 📜 License
-This project is open-source under the MIT License.
